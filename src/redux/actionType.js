@@ -1,0 +1,7 @@
+// search robots
+export const SET_SERCH_FIELD = "SET_SERCH_FIELD";
+
+//fetch robots
+export const REQUEST_ROBOTS_PENDING = "REQUEST_ROBOTS_PENDING";
+export const REQUEST_ROBOTS_SUCCESS = "REQUEST_ROBOTS_SUCCESS";
+export const REQUEST_ROBOTS_FAILED = "REQUEST_ROBOTS_FAILED";
